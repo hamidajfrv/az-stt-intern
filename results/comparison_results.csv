@@ -1,0 +1,21 @@
+reference,baseline_pred,finetuned_pred,baseline_wer,finetuned_wer
+Eşq şeirlərindən əlavə din və təsəvvüf ilə bağlı şeirləri də vardır.,Əşq şəirlərindən ələvə dinvətə sə vüf ilə bağlı şeirləri dəvardır.,Eşq şərlərindən ələvə din vətə sə vüf ilə bağlı şeğirləri dəvardır.,0.7272727272727273,0.7272727272727273
+Orta məktəbi bitirdikdən sonra Ukraynanın Lvov şəhərində hərbi xidmətdə olmuşdur.,Orta məktəvdi bitirdikdən sonra Ukrayna nəni Libov şəhəri də hərdi xidmətdə olmuştur.,Ortə məktəvdi bitirdikdən sonra Ukrayna nın İbof şəhərində hərdi xidmətdə olmuşdur.,0.8,0.6
+Hal hazırda Xəzər kanalında prodüser olaraq işinə davam edir.,"Hal hazırda, Khazərq kanalında producer olaraq işinə davam edir.",Hal hazırda Xəzək kanalında produsor olaraq işinə davam edir.,0.3333333333333333,0.2222222222222222
+Təpə Antarktidada yerləşən Start burnunun adını daşıyır.,"Təbə, Antarktida da yerləşin start qurlununun adını daşır.",Təbə anterq titada yerləşən start qurununun adını daşıyır.,1.0,0.7142857142857143
+Lənkəran şəhərində dəfn olunub.,Lənkəran şəhəri də dəfnəm.,Lənkəran şəhəri də dəfnod.,0.75,0.75
+Onların qalıqlarına Çin və Özbəkistan ərazilərində aşkarlanmışdır.,Oman qalqalarına Çinləyən öz bəkistan əvəzi vədəniləş kəlbəliyik üçün üçün.,Onların qalqlarına çinlən öz vəkistan ələzivərində şəkələrin üçdür.,1.4285714285714286,1.0
+Ətrafdakı ərazilərlə müqayisədə dumanlı və qar örtüyü olan günlərin sayı daha çoxdur.,"Ətrafdakil ərazilə, müqayisətə, dumanlı və qarq rəqdüyü olan günlərin sayır əha çoxdur.",Ətrafdakil ərazilərlə müqayisətə dumanlı və qarq hürtüyü olal günlərin sayır əhəç oxtur.,0.5833333333333334,0.6666666666666666
+Yeni Azərbaycan Partiyasının fəal üzvüdür.,Yeni Azərbaycın parkiyasının fəyal özür dür.,Yəni Azərbaycan Partiyasının fəalı özürdür.,1.0,0.6
+Qədim alban tarixinin izləri bu ərazidə bir çox yerlərdə var.,"Hətini Alban tarəfəmini izlərətdir, ərizətə bir çox yərlərət.",Hədin Alban tarəfinin izləri bir erzətəti çox yerlərə ors.,0.8,0.8
+Kəndin yerində müasir qəsəbənin inşası planlaşdırılırdı.,"Kəldin yerində, mahasır qəsəbənin inşaasi plənləşdirəlirdi.",Kəndin yerində masir qəsəbənin inşası plənləşdirülirdi.,0.8333333333333334,0.3333333333333333
+Sakinlər tarixi abidələrə çox həssaslıqla yanaşırlar.,Takinlər tarixə abidələrə çox hassasaya naşılır.,Takinlər tarixə abidələrə çox həsaslığa yanaşılı.,0.6666666666666666,0.6666666666666666
+Rusiyaya qayıtdıqdan sonra teatr və kino sahəsində çalışmışdır.,Və əqətlə təkdən sonra teatr və kinosaliyyəsində çalışmışdır.,Vıssiyyəq aydıdəktan sonra teatr və kinoz sahnesində çalışmışdır.,0.625,0.5
+Papanın xahişini qəbul edən Attila geri döndü.,Hapanın xayrıqın qəbul edən atıllığa geri döndü.,Abbanın xayştın qəbul edən atsı Allah geri döndü.,0.42857142857142855,0.5714285714285714
+İdman həyatı başa çatdıqdan sonra Torpe ailəsini saxlamaq üçün çalışmışdır.,İdman həyata para çatlıqdan sonra torbə aləsini saxmama üçün çalışmışdır.,İdiman həyata barakatdıktan sonra Dorpə'ye ailəsini saxmamaq üçün çalışmışdır.,0.6,0.6
+Jurnalistlər hekayələrinin əyləncəli hala gəlməsinə səbəb olan müəyyən bir məsələdə faktlar ata bilərlər.,"Jurnalistər, hikayələrinin ələncəli halı gəlməsinin səbəb olaməkəyəm bir məsələdə faktor atab bilərlər.",Jurnalistər hikayələrinin ələngəli hala gəlməsinin səbəb olaməyən bir məsələdə faktor atab dilərlər.,0.6923076923076923,0.6923076923076923
+Onu Ran Min adlı qardaşlığı öldürmüşdü.,Onur ağam min adı qardaşlığı öldürmüştü.,Onu rağın Min adı qardaşlığı öldürmüşdü.,0.8333333333333334,0.3333333333333333
+Yarada iki əsas dəyişiklik baş verir.,Yara da 2 səs dəyişiklik baş verir.,Yarada iki səst dəyişikliq baş verir.,0.6666666666666666,0.3333333333333333
+Komsomol gölü yaxınlığında yerləşən mərkəzdən kifayət qədər aralıda yerləşir.,Qab-Sumul gülü yaxan qalandı yəldəşən mərkəzdən tifayət gədər art oldu yəldəşir.,Xamsamol gölü yaxınqalında yerlərşən mərkəzdən kifayət gədər aralda yerləşir.,1.1111111111111112,0.5555555555555556
+Film iki seriyadan ibarətdir.,Filmi 2 seriyadan ibarətdir.,Film iki seriyadan ibarətdir.,0.5,0.0
+Bunun səbəbləri müxtəlifdir.,Konum savabıqlarımı xudəlifdir.,Bunun sabırları müxtəlifdir.,1.0,0.3333333333333333

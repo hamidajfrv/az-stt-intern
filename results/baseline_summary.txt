@@ -1,0 +1,18 @@
+Average WER: 66.56%
+Average CER: 21.29%
+
+BEST 5:
+                                              reference                                           prediction       wer       cer
+0                                     Adada göl yoxdur.                                    Adada göl yoxdur.  0.000000  0.000000
+1                                       Çünki o yoxdur.                                      Çünki o yoxdur.  0.000000  0.000000
+2    Kolbasa tam və ya doğranmış şəkildə servis edilir.   Kalbasa tam və ya doğranmış şəkildə servis edilir.  0.125000  0.023256
+3  Həmin il Yaponiya Misirin müstəqilliyini tanımışdır.  Həmin il Yaponiya Misirin müstəqiliyini tanımışdır.  0.166667  0.021277
+4              Çar ordusunda zabit kimi xidmət etmişdi.             Sar ordusunda zabit kimi xidmət etmişdi.  0.166667  0.028571
+
+WORST 5:
+                                                                         reference                                                                        prediction       wer       cer
+121                            Çimərlik ərazidə Kanadanın ən uzun hovuzu yerləşir.                            İtimarlış arazıda kanadın əm əm əsrəməkəsə əsrəməkəsə,  1.000000  0.711111
+122  Komsomol gölü yaxınlığında yerləşən mərkəzdən kifayət qədər aralıda yerləşir.  Qab-Sumul gülü yaxan qalandı yəldəşən mərkəzdən tifayət gədər art oldu yəldəşir.  1.111111  0.376812
+123                                 Şuşada doktor Mirzə Hüseyn bəy kimi tanınırdı.                               Şuşa da doktoru Mərdə Hüseyin bəyi kimi tanınır da?  1.142857  0.175000
+124                                                        Əsasən dağlıq ərazidir.                                                         Əssə asəl dağılır ərasir.  1.333333  0.380952
+125             Onların qalıqlarına Çin və Özbəkistan ərazilərində aşkarlanmışdır.       Oman qalqalarına Çinləyən öz bəkistan əvəzi vədəniləş kəlbəliyik üçün üçün.  1.428571  0.583333
